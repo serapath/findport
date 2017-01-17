@@ -1,0 +1,25 @@
+{
+  "name": "findport",
+  "version": "1.0.0",
+  "description": "find a free port on local system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/findport.git"
+  },
+  "keywords": [
+    "find",
+    "free",
+    "port",
+    "localhost"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/findport/issues"
+  },
+  "homepage": "https://github.com/serapath/findport#readme"
+}
